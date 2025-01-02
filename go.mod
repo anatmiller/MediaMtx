@@ -6,12 +6,12 @@ require (
 	code.cloudfoundry.org/bytefmt v0.0.0
 	github.com/MicahParks/jwkset v0.5.20
 	github.com/MicahParks/keyfunc/v3 v3.3.5
-	github.com/abema/go-mp4 v1.2.0
+	github.com/abema/go-mp4 v1.3.0
 	github.com/alecthomas/kong v1.6.0
 	github.com/asticode/go-astits v1.13.0
 	github.com/bluenviron/gohlslib/v2 v2.1.0
 	github.com/bluenviron/gortsplib/v4 v4.11.2
-	github.com/bluenviron/mediacommon v1.13.1
+	github.com/bluenviron/mediacommon v1.13.3
 	github.com/datarhei/gosrt v0.8.0
 	github.com/fsnotify/fsnotify v1.8.0
 	github.com/gin-contrib/pprof v1.5.1
